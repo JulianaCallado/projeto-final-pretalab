@@ -1,0 +1,27 @@
+.homeContainer {
+    padding: 6rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    text-align: center;
+}
+
+.todoButton {
+    background-color: #684;
+    border: none;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 28px;
+    cursor: pointer;
+}
+
+.menuButton {
+    background-color: #684;
+    border: none;
+    padding: 18px 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 28px;
+}
